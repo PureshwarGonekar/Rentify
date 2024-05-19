@@ -151,7 +151,7 @@ const EditProfile = () => {
             uploadProfilePic(userId, formData).then((resp)=>{
                 // console.log("saveUploads_lostAndFound",resp)
                 if(resp.message=== "ok"){
-                    localStorage.setItem(resp.imageUrl);
+                    localStorage.setItem("imageUrl",resp.imageUrl);
                     toast.success("Profile pic upload Successfully!", {
                         position: "top-right",
                         autoClose: 1000,

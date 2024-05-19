@@ -92,7 +92,7 @@ const EditPropertyModal = ({ open, onClose, property, onUpdate }) => {
   };
 
   return (
-    <Modal open={open} onClose={onClose} className=" overflow-auto">
+    <Modal open={open} onClose={onClose} x>
       <Box sx={{ p: 4, bgcolor: 'background.paper', margin: 'auto', mt: 4, maxWidth: 600 }}>
         <Typography variant="h5" gutterBottom>Edit Property</Typography>
         <form onSubmit={handleSubmit} className="grid grid-cols-2 gap-x-4">
