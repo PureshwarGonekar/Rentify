@@ -143,7 +143,7 @@ export default function StickyNavbar() {
     useEffect(()=>{
       const id= localStorage.getItem("userId");
       const imageUrl= localStorage.getItem("imageUrl");
-      // setProfilepic(base+'/'+ imageUrl)
+      setProfilepic(base+'/'+ imageUrl)
       getUserDetails(id).then((resp)=>{
         // console.log("myprofileroute",resp)
         if(resp.message==="ok"){
