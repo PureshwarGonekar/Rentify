@@ -17,9 +17,7 @@ const corsOptions ={
 
 app.use(cors(corsOptions));
 app.use(express.json());
-// app.use(express.static("public"));
-// app.use(express.urlencoded({ extended: true }));
-// app.use("/uploads", express.static("uploads"));
+
 app.use('/profilePic', express.static('profilePic'))
 app.use('/uploads', express.static('uploads'))
 
@@ -34,6 +32,6 @@ const server = http.createServer(app);
 
 server.listen(PORT, () => {
   console.log(
-    `CompareCraze' Backend is running at Port - http://localhost:${PORT}`
+    `Rentify Backend is running at Port - http://localhost:${PORT}`
   );
 });

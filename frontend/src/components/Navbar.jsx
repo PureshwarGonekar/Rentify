@@ -107,14 +107,6 @@ export default function StickyNavbar() {
       icon: Cog6ToothIcon,
     },
     {
-      label: "Inbox",
-      icon: InboxArrowDownIcon,
-    },
-    {
-      label: "Help",
-      icon: LifebuoyIcon,
-    },
-    {
       label: "Sign Out",
       icon: PowerIcon,
     },
