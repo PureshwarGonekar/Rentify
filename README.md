@@ -3,10 +3,7 @@ Rentify is a web application designed to connect property seekers with sellers, 
 
 ## Screenshots
 ![Screenshot 2024-05-18 172721](https://github.com/PureshwarGonekar/Rentify/assets/88015818/e6011436-3499-49fa-a880-0a7f584b2c1a)
-![Screenshot (345)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/f1647fe3-2adc-4294-a652-1717b58330d6)
-![Screenshot (346)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/9124a1fe-ed4b-433c-a88d-bcd29eade837)
-![Screenshot (347)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/19733e7d-b6db-457d-9d4f-adf6eaf94d9d)
-![Screenshot (348)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/a1eafef8-6daf-4233-8a35-fd06949a09b2)
+
 ![Screenshot (349)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/b575381f-d31b-43ab-af42-67935005d2ff)
 ![Screenshot (350)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/ce400b55-b499-48d0-ac8d-c282772475bb)
 ![Screenshot (351)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/5ca3beee-7e6a-4837-b600-6492b9e7e569)
@@ -22,6 +19,9 @@ Rentify is a web application designed to connect property seekers with sellers, 
 ![Screenshot (361)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/b076060a-c401-4944-b7fd-6fcc374e6cf8)
 ![Screenshot (362)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/4502fa2f-1576-41b2-a648-83316972ed2b)
 ![Screenshot (363)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/a5971b2b-2cbd-40cc-94fd-bc8216b206d5)
+![Screenshot (365)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/97929873-7ece-4ca1-be11-002a0e29e1ea)
+![Screenshot (364)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/7f7c5781-3249-43e4-be2b-ebad4989feba)
+
 
 
 ## Features
