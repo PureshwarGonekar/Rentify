@@ -26,7 +26,7 @@ app.use('/uploads', express.static('uploads'))
 app.use("/api/auth", auth);
 app.use("/api/user", user);
 app.use("/",(req,res)=>{
-  res.send("This is Compare Craze website")
+  res.send("This is Rentify - a PG, rooms/property listing website developed by Pureshwar");
 })
 
 
