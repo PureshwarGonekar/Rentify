@@ -2,6 +2,27 @@
 Rentify is a web application designed to connect property seekers with sellers, specifically focusing on PGs (paying guest accommodations), rooms, and other properties. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), Rentify offers a seamless experience for users to search for properties, list their own, and manage their profiles. The application includes robust authentication, property listing, and management features, alongside an efficient email notification system.
 
 ## Screenshots
+![Screenshot 2024-05-18 172721](https://github.com/PureshwarGonekar/Rentify/assets/88015818/e6011436-3499-49fa-a880-0a7f584b2c1a)
+
+![Screenshot (349)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/b575381f-d31b-43ab-af42-67935005d2ff)
+![Screenshot (350)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/ce400b55-b499-48d0-ac8d-c282772475bb)
+![Screenshot (351)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/5ca3beee-7e6a-4837-b600-6492b9e7e569)
+![Screenshot (352)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/f74e8c7d-f142-44bd-a343-d63b1e4dd320)
+![Screenshot (353)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/4a5602b3-5629-4cd7-894f-5d6d4dcc6a78)
+![Screenshot (354)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/edc23c0c-7a20-4fe1-b7df-d36d65d62f45)
+![Screenshot (355)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/f568bf4d-c2d8-42cb-ac42-9180936bd636)
+![Screenshot (356)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/e78e6fab-f885-41cb-ac2c-40ec1dbffef3)
+![Screenshot (357)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/7e5d40d8-923b-4df7-8e46-2f09f9c6fda1)
+![Screenshot (358)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/f8f4f68a-c2c5-4b3c-a056-3483b0067c36)
+![Screenshot (359)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/9774014e-2b7f-4d0d-802b-d5bbecc0adc8)
+![Screenshot (360)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/de5d75bc-56cf-4f1e-84ce-935aa2d5f38c)
+![Screenshot (361)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/b076060a-c401-4944-b7fd-6fcc374e6cf8)
+![Screenshot (362)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/4502fa2f-1576-41b2-a648-83316972ed2b)
+![Screenshot (363)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/a5971b2b-2cbd-40cc-94fd-bc8216b206d5)
+![Screenshot (365)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/97929873-7ece-4ca1-be11-002a0e29e1ea)
+![Screenshot (364)](https://github.com/PureshwarGonekar/Rentify/assets/88015818/7f7c5781-3249-43e4-be2b-ebad4989feba)
+
+
 
 ## Features
 
