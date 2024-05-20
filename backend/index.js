@@ -18,8 +18,8 @@ const corsOptions ={
 app.use(cors(corsOptions));
 app.use(express.json());
 
-app.use('/profilePic', express.static(__dirname+'profilePic'))
-app.use('/uploads', express.static(__dirname+'uploads'))
+app.use(express.static(__dirname+'/profilePic'))
+app.use(express.static(__dirname+'/uploads'))
 
 app.use("/api/auth", auth);
 app.use("/api/user", user);
