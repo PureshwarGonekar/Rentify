@@ -59,7 +59,7 @@ export const uploadProfilePic = async (id, formData) => {
 
         if (response.ok) {
           const data = await response.json();
-        //   console.log(data.message); // File uploaded successfully
+          console.log("uploadProfilePic msg", data.message); 
           return data;
         } else {
           console.error('Failed to upload file');
