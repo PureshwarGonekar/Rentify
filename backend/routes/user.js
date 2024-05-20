@@ -52,7 +52,7 @@ router.patch('/updateuser/:id', async (req, res) => {
 
 
 const storage1 = multer.diskStorage({
-  destination: 'profilePic/', 
+  destination: __dirname+'profilePic/', 
   filename: function (req, file, cb) {
     cb(null,Date.now() + path.extname(file.originalname));
   },
@@ -82,7 +82,7 @@ router.post('/imageUpload/:userId', upload1.single('userImg'), async (req, res) 
 });
 
 const storage = multer.diskStorage({
-  destination: 'uploads/', 
+  destination: __dirname+'uploads/', 
   filename: function (req, file, cb) {
     cb(null,Date.now() + path.extname(file.originalname));
   },
